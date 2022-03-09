@@ -10,3 +10,4 @@ console.log (coloreUtente);
 
 
 let passwordUtente = nomeUtente + cognomeUtente + coloreUtente + 21;
+console.log(passwordUtente)
